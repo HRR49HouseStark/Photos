@@ -3,8 +3,10 @@ const app = express();
 const db = require('../db/index.js');
 const path = require('path');
 const compression = require('compression');
+const morgan = require('morgan');
 
 app.use(compression());
+app.use(morgan('tiny'));
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 app.use(express.static(path.join(__dirname, '/../client/dist')));
