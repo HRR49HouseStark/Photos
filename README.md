@@ -3,8 +3,7 @@
 ## About The Project
 
 > A recreation of the Trulia listing photo gallery/carousel Component.
-1. Visit http://54.219.143.193:3001/ to take a look at the individual component!
-1. Visit http://54.177.124.31:3000/ to take a look at the whole listing page with its related projects!
+![](FEC_GIF.gif)
 
 ## Table of Contents
 

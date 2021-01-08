@@ -6,3 +6,6 @@ node_modules
 
 # login bash script for EC2 instance
 login.sh
+
+# gif
+FEC_GIF.gif
