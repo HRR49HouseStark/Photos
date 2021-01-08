@@ -3,7 +3,7 @@
 ## About The Project
 
 > A recreation of the Trulia listing photo gallery/carousel Component.
-![](FEC_GIF.gif)
+![](/Users/David/HackReactor/SEI/senior_phase/Photos/FEC_GIF.gif)
 
 ## Table of Contents
 
