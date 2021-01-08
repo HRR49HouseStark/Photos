@@ -21,10 +21,12 @@ export const LeftSideNavContainer = styled.div`
 `;
 
 export const Logo = styled.div`
-  content: url(https://fecphotos.s3-us-west-1.amazonaws.com/Trulia+Logo.png);
   height: 20px;
-  width: 70px;
+  width: 80px;
   padding: 10px 20px;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
 `;
 
 export const SearchHouses = styled.input`

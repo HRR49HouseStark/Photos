@@ -48,7 +48,7 @@ const TourSection = () => {
           <Styled.PublicHealthContainerText>Public Health Advisory</Styled.PublicHealthContainerText>
         </Styled.PublicHealthContainer>
 
-        <Styled.TourDescription>By pressing Schedule A Tour, you agree that Trulia and real estate professionals may contact you via phone/text about your inquiry, which may involve the use of automated means. You are not required to consent as a condition of purchasing any property, goods or services. Message/data rates may apply. You also agree to our <span style={{color: "rgb(0, 120, 130)"}}>Terms of Use</span> Trulia does not endorse any <span style={{color: "rgb(0, 120, 130)"}}>real estate professionals</span></Styled.TourDescription>
+        <Styled.TourDescription>By pressing Schedule A Tour, you agree that Homents and real estate professionals may contact you via phone/text about your inquiry, which may involve the use of automated means. You are not required to consent as a condition of purchasing any property, goods or services. Message/data rates may apply. You also agree to our <span style={{color: "rgb(0, 120, 130)"}}>Terms of Use</span> Homents does not endorse any <span style={{color: "rgb(0, 120, 130)"}}>real estate professionals</span></Styled.TourDescription>
 
       </Styled.ToursContainer>
     </Styled.Tours>

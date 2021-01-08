@@ -9,7 +9,7 @@ const NavBar = ({listing}) => {
     <Styled.NavBar>
 
       <Styled.LeftSideNavContainer>
-        <Styled.Logo></Styled.Logo>
+        <Styled.Logo>Homents</Styled.Logo>
           <Styled.SearchHouses placeholder="Search for City, Neighborhood, Zip, County, ..."></Styled.SearchHouses>
           <Styled.SearchHousesButton>{searchIcon}</Styled.SearchHousesButton>
 

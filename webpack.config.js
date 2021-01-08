@@ -1,5 +1,5 @@
 const path = require('path');
-const BrotliPlugin = require('brotli-webpack-plugin');
+// const BrotliPlugin = require('brotli-webpack-plugin');
 var DIST_DIR = path.join(__dirname, '/client/dist');
 var SRC_DIR = path.join(__dirname, '/client/src');
 
@@ -30,11 +30,11 @@ module.exports = {
       }
     ]
   },
-  plugins: [
-    new BrotliPlugin({
-      asset: 'bundle.js.br',
-      test: /\.(js)$/,
-    }),
-  ],
+  // plugins: [
+  //   new BrotliPlugin({
+  //     asset: 'bundle.js.br',
+  //     test: /\.(js)$/,
+  //   }),
+  // ],
   mode: 'production'
 }
